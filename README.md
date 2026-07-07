@@ -431,7 +431,7 @@ The `Figures/` directory contains visualizations that illustrate the data charac
 - Probabilistic Policy Insights
 - Workflow Diagram
 
----## 🔑 Key Findings
+## 🔑 Key Findings
 
 - **XGBoost consistently outperformed** Random Forest, SVM, and KNN for district-level drought prediction.
 - **Weighted Loss** proved more effective than SMOTE in handling severe class imbalance while maintaining better predictive performance.
@@ -442,7 +442,7 @@ The `Figures/` directory contains visualizations that illustrate the data charac
 - **Uncertainty quantification** and **probabilistic policy insights** improved confidence in predictions and supported informed decision-making.
 - **Cross-dataset generalization** demonstrated the robustness and transferability of the proposed framework on unseen datasets.
 
----## 🔮 Future Scope
+## 🔮 Future Scope
 
 The proposed framework can be further extended through the following enhancements:
 

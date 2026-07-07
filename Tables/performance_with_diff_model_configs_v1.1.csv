@@ -1,0 +1,4 @@
+Model Config,Accuracy,Macro Avg Precision,Macro Avg Recall,F1 Score,PR-AUC
+XGBoost without SMOTE and with Weighted Loss,94.5,81.3,75.6,78.0,64.7
+XGBoost without SMOTE and with Unweighted Loss,94.6,85.7,70.4,75.5,64.4
+XGBoost with SMOTE and with Unweighted Loss,92.8,74.2,78.6,76.2,61.6

@@ -1,6 +1,6 @@
 # Drought-Prediction-using-Machine-Learning-and-Ensemble-Models-with-Explainable-AI-SHAP-LIME-
 A comprehensive machine learning framework for district-level drought prediction across India using temporal feature engineering, ensemble learning, Explainable AI (SHAP & LIME), uncertainty quantification, probabilistic policy insights, and cross-dataset generalization.
-## 📋 Table of Contents
+## Table of Contents
 
 - Overview
 - Dataset
@@ -21,11 +21,11 @@ A comprehensive machine learning framework for district-level drought prediction
 
 The dataset used in this study can be accessed from:
 
-🔗 **Dataset Link**
+**Dataset Link**
 
 ```text
 https://PASTE_YOUR_DATASET_LINK_HERE
-## 🔬 Methodology
+## Methodology
 
 The proposed framework follows an end-to-end machine learning pipeline for drought prediction, from data preprocessing to model interpretation and cross-dataset validation.
 
@@ -189,7 +189,7 @@ This analysis investigates:
 - Robustness across different data distributions
 
 Cross-dataset validation demonstrates the applicability of the proposed framework beyond the original training dataset.
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Drought-Prediction/
@@ -202,10 +202,6 @@ Drought-Prediction/
 │   ├── Drought_Prediction_Cross_Dataset_Generalization.ipynb
 │   │      # External dataset evaluation for testing model robustness and
 │   │      # cross-dataset generalization
-│   │
-│   └── xgbmodel_files.pkl
-│          # Saved XGBoost model and preprocessing objects
-│
 ├── Data/
 │   ├── final.csv
 │   │      # Historical meteorological dataset used for model development
@@ -239,16 +235,10 @@ Drought-Prediction/
 ├── Research Paper/
 │   └── Manuscript and supplementary documents
 │
-├── requirements.txt
-│      # Python package dependencies
-│
-├── LICENSE
-│      # Repository license
-│
 └── README.md
        # Project documentation
 ```
-## 💻 Code
+## Code
 
 ### Main Drought Prediction Notebook
 
@@ -267,7 +257,7 @@ Drought-Prediction/
 | ▶ Google Colab | https://colab.research.google.com/drive/1UHo7rJlxWrxvcOtNckATvJwx6_ED2b_P?usp=sharing|
 
 ---
-## 💻 Usage
+## Usage
 
 ### Running the Main Notebook
 
@@ -338,7 +328,7 @@ sc = xgbmodel_files[1]                  # StandardScaler
 le_district = xgbmodel_files[2]         # LabelEncoder for DISTRICT
 le_state = xgbmodel_files[3]            # LabelEncoder for STATE
 ```
-## 📈 Experimental Results
+## Experimental Results
 
 The proposed framework was evaluated using multiple machine learning models and different class imbalance handling strategies.
 
@@ -419,7 +409,7 @@ Running the notebooks produces:
 - Probabilistic insight reports
 - District-level drought prediction maps
 - Cross-dataset evaluation results
-- ## 📊 Visualizations
+- ## Visualizations
 
 The `Figures/` directory contains visualizations that illustrate the data characteristics, model performance, explainability, and prediction outcomes.
 
@@ -451,7 +441,7 @@ The `Figures/` directory contains visualizations that illustrate the data charac
 - Probabilistic Policy Insights
 - Workflow Diagram
 
-## 🔑 Key Findings
+## Key Findings
 
 - **XGBoost consistently outperformed** Random Forest, SVM, and KNN for district-level drought prediction.
 - **Weighted Loss** proved more effective than SMOTE in handling severe class imbalance while maintaining better predictive performance.
@@ -462,7 +452,7 @@ The `Figures/` directory contains visualizations that illustrate the data charac
 - **Uncertainty quantification** and **probabilistic policy insights** improved confidence in predictions and supported informed decision-making.
 - **Cross-dataset generalization** demonstrated the robustness and transferability of the proposed framework on unseen datasets.
 
-## 🔮 Future Scope
+## Future Scope
 
 The proposed framework can be further extended through the following enhancements:
 

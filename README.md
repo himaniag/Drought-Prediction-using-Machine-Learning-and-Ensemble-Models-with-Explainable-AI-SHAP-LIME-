@@ -22,9 +22,8 @@ A comprehensive machine learning framework for district-level drought prediction
 The dataset used in this study can be accessed from:
 
 **Dataset Link**
+https://huggingface.co/datasets/himaniagrawal/CRU-datasetfiles/tree/main
 
-```text
-https://PASTE_YOUR_DATASET_LINK_HERE
 ## Methodology
 
 The proposed framework follows an end-to-end machine learning pipeline for drought prediction, from data preprocessing to model interpretation and cross-dataset validation.

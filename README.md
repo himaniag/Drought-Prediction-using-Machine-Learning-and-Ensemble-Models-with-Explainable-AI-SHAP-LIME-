@@ -242,13 +242,11 @@ Drought-Prediction/
 ### Main Drought Prediction Notebook
 
 | Platform | Link |
-| 📄 GitHub Notebook | **PASTE_GITHUB_NOTEBOOK_LINK_HERE** |
 | ▶ Google Colab |https://colab.research.google.com/drive/10fywWcECadQL6g3LJeuIap27zIEwor46?usp=sharing|
 
 ### Cross-Dataset Generalization Notebook
 
 | Platform | Link |
-| 📄 GitHub Notebook | **PASTE_GITHUB_NOTEBOOK_LINK_HERE** |
 | ▶ Google Colab | https://colab.research.google.com/drive/1UHo7rJlxWrxvcOtNckATvJwx6_ED2b_P?usp=sharing|
 
 ---

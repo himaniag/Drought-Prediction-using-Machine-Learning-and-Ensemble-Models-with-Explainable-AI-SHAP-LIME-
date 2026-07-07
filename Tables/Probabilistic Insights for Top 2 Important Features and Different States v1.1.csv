@@ -1,0 +1,21 @@
+State,Feature,Delta,Increment/Drop,Change in Prob,Baseline Prob
+GUJARAT,SPI_t-1,-1,Increment,11.26,4.12
+GUJARAT,SPI_t-1,1,Drop,3.3,4.12
+GUJARAT,Precipitation_t-5,-1,Increment,0.13,4.12
+GUJARAT,Precipitation_t-5,1,Drop,0.41,4.12
+BIHAR,SPI_t-1,-1,Increment,28.69,12.83
+BIHAR,SPI_t-1,1,Drop,11.22,12.83
+BIHAR,Precipitation_t-5,-1,Increment,0.17,12.83
+BIHAR,Precipitation_t-5,1,Drop,0.3,12.83
+ANDHRA PRADESH,SPI_t-1,-1,Increment,13.8,5.74
+ANDHRA PRADESH,SPI_t-1,1,Drop,5.28,5.74
+ANDHRA PRADESH,Precipitation_t-5,-1,Increment,0.06,5.74
+ANDHRA PRADESH,Precipitation_t-5,1,Drop,0.14,5.74
+MAHARASHTRA,SPI_t-1,-1,Increment,14.76,8.14
+MAHARASHTRA,SPI_t-1,1,Drop,6.92,8.14
+MAHARASHTRA,Precipitation_t-5,-1,Increment,0.03,8.14
+MAHARASHTRA,Precipitation_t-5,1,Drop,0.19,8.14
+KARNATAKA,SPI_t-1,-1,Increment,15.21,7.12
+KARNATAKA,SPI_t-1,1,Drop,5.72,7.12
+KARNATAKA,Precipitation_t-5,-1,Increment,0.07,7.12
+KARNATAKA,Precipitation_t-5,1,Drop,0.07,7.12
